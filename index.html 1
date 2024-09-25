@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>  
+</head>
+<style>
+p
+{
+border:2px solid green
+}
+</style>
+<p>
+<body>
+<center>
+   <h2>NNAJI GOODNEWS OZIOMA</h2>
+   <h3>Address: Adeyemo Alakija,Victoria Island,Lagos</h3>
+   <h3> Email Address: goodnewsnnaji@gmail.com</h3>
+   <h3>Contact: 08101225996</h3><hr>
+   </center>
+   
+ <h2>
+ <div style="background-color:gray;color:white;padding:10px;">
+ OBJECTIVES</h2>
+ <p>
+ Aspiring front-end developer with a keen eye for details and a foundation in HTML,CSS,and JavaScript.
+ Passionate about creating intuitive,and visually appealing web interfaces.
+ Seeking to apply my technical shills and passion for front-end development
+ to contribute to innovative projects and enhance user experience.
+ </p><hr>
+ 
+ <h2>
+ <div style="background-color:gray;color:white;padding:10px;">
+ WORK EXPERIENCE</h2>
+ <h4>Front-End Developer Intern</h4>
+ <ul>
+ <br>
+ <h4>
+ <li>Collaborated with senior developers to build and maintain responsive web pages using HTML,CSS,and JavaScript.
+ <li>Worked with designers to translate wireframes and prototypes into fully functional web applications.
+ <li>Utilized Git and GitHub for version control,contributing to code reviews and collaboration across teams.
+ <li>Participated in daily stand-up meetings and presented progress updates to the project manager.
+ </h4><br>
+ </ul><hr>
+ 
+ <h2>
+ <div style="background-color:gray;color:white;padding:10px;">
+ RELEVANT COURSEWORK</h2>
+ <ul>
+ <br>
+ <h4>
+ <li>Front-end Development
+ <li>WordPress with Canva
+ </h4><br>
+ </ul><hr>
+ 
+ <h2>
+ <div style="background-color:gray;color:white;padding:10px;">
+ EDUCATION</h2>
+ <table border=4 width=1000>
+ <tr>
+     <th>University</th>
+	 <th>Course of Study</th>
+	 <th>Year</th>
+	 <th>Marks</th>
+</tr>
+<tr>
+    <th>Gofrey Okoye University</th>
+	<th>Bachelor of Arts in English and Literary Srudies</th>
+	<th>Nov 2019-Nov 2023</th>
+	<th>2.2</th>
+</tr>
+</table>
+<hr>
+
+<h2>
+<div style="background-color:gray;color:white;padding:10px;">
+TECHNICAL SKILLS</h2>
+<h4>Language;<p>HTML,CSS,and JavaScript</p></h4>
+<hr>
+
+<h2>
+<div style="background-color:gray;color:white;padding:10px;">
+STRENGTH</h2>
+<ul>
+    <br>
+	<h3>
+	<li>Good Communication Skills
+	<li>Focused and Confident with positive attitude
+	<li>Good team player
+	<li>Self motivated
+	</h3>
+	<br>
+</ul><hr>
+
+<h2>
+<div style="background-color:gray;color:white;padding:10px;">
+CERTIFICATION</h2>
+<h4> Web Design</h4>
+<hr>
+
+</body>
+</p>
+</html>
